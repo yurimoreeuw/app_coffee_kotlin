@@ -5,13 +5,21 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".ListOfCoffeesActivity">
+        tools:context=".ListOfCoffeesActivity"
+        android:orientation="vertical">
 
     <TextView
             android:id="@+id/carai"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="400dp"
             android:text="aooo carai"
             android:gravity="center"
             android:textSize="35sp"/>
+
+    <Button
+            android:id="@+id/button_opa"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="opa"
+            android:gravity="center"/>
 </LinearLayout>
