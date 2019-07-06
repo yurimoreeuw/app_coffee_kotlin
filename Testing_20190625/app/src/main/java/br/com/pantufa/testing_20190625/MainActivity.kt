@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        graph_screen.setOnClickListener {
+        list_of_coffees.setOnClickListener {
             // Handler code here.
             val intent = Intent(this, ListOfCoffeesActivity::class.java)
             startActivity(intent);

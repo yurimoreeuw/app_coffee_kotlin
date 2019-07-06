@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">Testing_20190625</string>
-    <string name="recipe_title">Receita</string>
+    <string name="title_recipe">Receita</string>
+    <string name="coffee_dose">Dose de café:</string>
+    <string name="yield_extracted">Total da Extração:</string>
+    <string name="grind_settings">Ajuste do moedor:</string>
+    <string name="total_time">Tempo total:</string>
+    <string name="hint_grams">gramas</string>
+    <string name="hint_seconds">segundos</string>
+    <string name="hint_set">ajuste</string>
+    <string name="button_graphic">Extração por Concentração</string>
+    <string name="button_list_of_coffees">Lista de cafés</string>
 </resources>
