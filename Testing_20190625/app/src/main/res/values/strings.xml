@@ -8,7 +8,8 @@
     <string name="hint_grams">grams</string>
     <string name="hint_seconds">seconds</string>
     <string name="hint_set">setting</string>
-    <string name="button_graphic">Extraction X Strength</string>
+    <string name="switch_advanced">Advanced:</string>
+    <string name="button_graphic">Next</string>
     <string name="button_list_of_coffees">Coffee list</string>
 
 </resources>

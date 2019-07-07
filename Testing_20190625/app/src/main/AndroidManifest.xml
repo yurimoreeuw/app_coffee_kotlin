@@ -3,7 +3,7 @@
           xmlns:tools="http://schemas.android.com/tools"
           package="br.com.pantufa.testing_20190625">
 
-    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
             android:allowBackup="true"
@@ -13,6 +13,10 @@
             android:supportsRtl="true"
             android:theme="@style/AppTheme"
             tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".CoffeeExtractionActivity">
+        </activity>
+        <activity android:name=".CoffeeConcentrationActivity">
+        </activity>
         <activity android:name=".ExtracByStrenActivity">
         </activity>
         <activity android:name=".ListOfCoffeesActivity">
